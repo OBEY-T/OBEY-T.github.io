@@ -1,0 +1,13 @@
+Package: Darker Dune
+Name: Darker Dune
+Version: 0.1.5-darker
+Size: 2800
+Architecture: iphoneos-arm
+Description: Darker Dune
+Maintainer: OBEY-T (/u/OBEY-T-)
+Author: Skitty, OBEY-T
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//Darker.Dune.deb
