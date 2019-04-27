@@ -1,12 +1,12 @@
 Package: Darker Dune
 Name: Darker Dune
-Version: 0.1.5-darker
-Size: 2800
+Version: (Version Number)
+Size: (Size in Bytes)
 Architecture: iphoneos-arm
-Description: Darker Dune
-Maintainer: OBEY-T (/u/OBEY-T-)
-Author: Skitty, OBEY-T
-Section: (Cydia Section)
+Description: (Tweak Description)
+Maintainer: (Name) <email@provider.com>
+Author: (Name) <email@provider.com>
+Section: Darker Dune
 MD5sum:
 SHA1sum:
 SHA256sum:
